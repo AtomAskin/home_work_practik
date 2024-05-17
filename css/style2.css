@@ -1,0 +1,21 @@
+.h1 {
+    text-align: right;
+    color: blueviolet;
+}
+
+.p1{
+    background-color: coral;
+    text-align: right;
+    width: 600px;
+}
+
+.h2 {
+    text-align: justify;
+    color: coral;
+}
+
+.p2{
+    width: 50%;
+    background-color: blueviolet;
+    text-align: justify;
+}
